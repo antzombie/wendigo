@@ -10,7 +10,7 @@ banner = '''
                 ░       ░  ░         ░    ░     ░        ░     ░ ░  
                    .... .. -.. -.. . -. / -- . ... ... .- --. .
 
-                           [ Created By @melentent ]
+                           [ Created By @malentent ]
                       [ Please Do Not use for illegal activity ]
                      [ Any illegal usage is not my reponsibility]
 '''
