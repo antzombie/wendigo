@@ -4,7 +4,7 @@
 ![img](img.png)
 ## Setup
 ```bash
-git clone https://github.com/malentent/wendigo
+git clone https://github.com/antzombie/wendigo
 cd wendigo
 sudo apt install metasploit-framework
 ```
